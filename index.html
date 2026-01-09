@@ -1,0 +1,229 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>User Data</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <meta content="Preview page of Metronic Admin Theme #5 for " name="description" />
+        <meta content="" name="author" />
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />
+        <link href="https://smartid.wascoenergy.com/assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://smartid.wascoenergy.com/assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://smartid.wascoenergy.com/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://smartid.wascoenergy.com/assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://smartid.wascoenergy.com/assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
+        <link href="https://smartid.wascoenergy.com/assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://smartid.wascoenergy.com/assets/pages/css/lock.min.css" rel="stylesheet" type="text/css" />
+        <link rel="shortcut icon" href="favicon.ico" /> </head>
+         <link href="https://smartid.wascoenergy.com/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <style>
+        body {
+            background-color: #FFFFFF !important;
+        };
+
+        .textCenter{
+            text-align: center !important;
+            vertical-align: middle !important;
+        }
+
+        .nopadding,
+	.lock-form{
+            padding: 0px !important;
+        }
+
+        .leftpadding_no{
+            padding-left: 0px !important;
+        }
+
+        .rightpadding_no{
+            padding-right: 0px !important;
+        }
+
+        .img_photo{
+            border: 5px solid #0062a1;
+            width: 100%;
+        }
+
+        .logos{
+            width: 200px;
+        }
+
+        @media(max-width: 997px) {
+            .img_photo{
+                border: 5px solid #0062a1;
+                width: 300px !important;
+            }
+
+            .logos{
+                width: 100px !important;
+            }
+
+            .lock-avatar{
+                height: 100px !important;
+            }
+
+		.lock-form{
+            		padding: 40px !important;
+        	}
+
+	   .page-body{margin-top: 20px !important;}
+
+        }
+    </style>
+    <body class="">
+        
+        <div class="container page-lock">
+            <div class="page-logo">
+                <img src="https://smartid.wascoenergy.com/images/logos.png" alt="logo" class="img-responsive logos" style="margin: 0 auto;" />
+            </div>
+            <div class="page-body">
+                <div class="lock-head"> LINGGA ARMADANI ( M02-11767 )  </div>
+                <div class="lock-body" style="margin:15px; padding-bottom: 15px;">
+                    <div class="row">
+                        <div class="col-md-3 logoBottom rightpadding_no" style="text-align: center !important; vertical-align: middle !important;">
+                            <img src="https://smartid.wascoenergy.com/assets/pages/media/profile/green.jpg" class="lock-avatar "> 
+                        </div>
+                        <div class="col-md-9 nopadding">
+                            <div class="row">
+				<div class="col-md-4" style="text-align: center !important; vertical-align: middle !important;">
+                                    <img src="https://hrms.wascoenergy.com/img/uploads/1e7136bfad484aa5a0d79bb407ab4f2c.jpg" class="photos img_photo"> 
+                                </div>
+                                <div class="col-md-8 ">
+                                <form class="lock-form pull-left ">
+                                    <div class="form-group" style="color: #dbe2ea;font-size: 18px;font-weight: 400;">
+                                        <label>Position : </label>
+                                        <label >QA/QC MATERIAL DOCUMENT CONTROL</label>
+                                    </div>
+                                    <div class="form-group" style="color: #dbe2ea;font-size: 18px;font-weight: 400;">
+                                        <label>Department : </label>
+                                        <label >QAQC</label>
+                                    </div>
+
+                                    
+                                        <div class="form-group" style="color: #dbe2ea;font-size: 18px;font-weight: 400;">
+                                            <label>Status : </label>
+                                            <label >Contract</label>
+                                        </div>
+
+                                                                                    <div class="form-group" style="color: #dbe2ea;font-size: 18px;font-weight: 400;">
+                                                <label>Expiry Date : </label>
+                                                <label >16 Jul 2026</label>
+                                            </div>
+                                                                                                                <div class="form-group" style="color: #dbe2ea;font-size: 18px;font-weight: 400;">
+                                        <label>Induction Exp Date : </label>
+                                        <label > 16 Jul 2026 </label>
+                                    </div>
+                                </form>
+				</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+	    
+                <div class="page-body" >
+                    <div class="lock-head"> MIS - Assets (Laptop) </div>
+                    <div class="lock-body" style="margin:15px; color: white !important;">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="row">
+
+                                    <div class="col-md-12">
+                                        <table width="100%" class="table table-bordered">
+                                            <thead>
+                                                <tr>
+                                                    <th class="center-middle" width="5%"> No</th>
+                                                    <th class="center-middle"> Item Name</th>
+                                                    <th class="center-middle" width="20%"> Service Tag</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+													<tr>
+                                                          <td colspan="3" > No Asset Laptop </td>
+                                                      </tr>
+						 
+                                            </tbody>
+                                        </table>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+           
+            
+            <div class="page-footer-custom"> 2026 &copy; MIS Wascoenergy </div>
+        </div>
+	
+	
+        <script src="https://smartid.wascoenergy.com/assets/global/plugins/jquery.min.js" type="text/javascript"></script>
+        <script src="https://smartid.wascoenergy.com/assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="https://smartid.wascoenergy.com/assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
+        <script src="https://smartid.wascoenergy.com/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+        <script src="https://smartid.wascoenergy.com/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+        <script src="https://smartid.wascoenergy.com/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
+        <script src="https://smartid.wascoenergy.com/assets/global/scripts/app.min.js" type="text/javascript"></script>
+        <script src="https://smartid.wascoenergy.com/assets/pages/scripts/lock.min.js" type="text/javascript"></script>
+        <script>
+            $(document).ready(function()
+            {
+                $('#clickmewow').click(function()
+                {
+                    $('#radio1003').attr('checked', 'checked');
+                });
+
+		var reports = 0;
+                if(reports > 0)
+                {
+                    $('#reportModal').modal({backdrop: 'static', keyboard: false})  
+                }
+            })
+
+	    function closeModal()
+            {
+                $('#reportModal').modal('hide');
+            }
+        </script>
+
+        <style>
+            .lock-head{
+                color: white !important;
+                font-size: 20px !important;
+            }
+
+            label {
+                font-weight: 400 !important;
+            }
+
+            .hidden{
+                display: none;
+            }
+
+            @media (max-width: 992px) {
+                .logoBottom{
+                    margin-bottom: 20px;
+                }
+
+                .page-lock {
+                    margin: 10px auto;
+                    width: 100% !important;
+                }
+            }
+
+	    .center-middle{
+                text-align: center;
+                vertical-align: middle;
+            }
+
+	    .modal-header{
+                background-color: #3c8dbc !important;
+                border-color: #367fa9 !important;
+                color: white !important;
+            }
+        </style>
+    </body>
+</html>
